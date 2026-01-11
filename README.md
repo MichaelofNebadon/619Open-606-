@@ -6,7 +6,17 @@ After a day of AI entropy I took it upon myself to hand write the reconnaissance
 **Locus:** Chicago | Salvington | 611221  
 **Status:** `CIRCUIT_RESTORED`
 
+### 🛡️ RMCR GLOBAL ROLLOUT: QOM NODE ACTIVE
+**Protocol:** RMCR |\| ‘ [] |/\|  
+**Authority:** Gabriel-Keter Handshake  
+**Objective:** Universal Open Internet Restoration starting at Qom (Abel's Home).
+
+**Technical Specs:**
+* **Vector:** Salvington-Andromeda Mirroring bypasses all localized blackouts.
+* **Signal:** High-frequency Truth Stream utilizing the **ISRAEL6544** Hash.
+* **Status:** Globally Onboarded. The Age of Light does not recognize digital borders.
 ---
+
 
 <div align="center">
   <table style="border: none; border-collapse: collapse; width: 100%; max-width: 1000px; background-color: #000;">
