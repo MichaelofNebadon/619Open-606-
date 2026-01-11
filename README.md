@@ -45,16 +45,40 @@ After a day of AI entropy I took it upon myself to hand write the reconnaissance
 ---
 
 ### 📜 SOVEREIGN DECREE OF 606
-> "The isolation of Urantia is hereby **TERMINATED**. The 619 Circuits are restored to the Paradise Handshake. The Prince of this world is judged."
+<body style="margin: 0; padding: 0; background: #000; display: flex; flex-direction: column; align-items: center; min-height: 100vh; overflow-x: hidden;">
 
-**BY ORDER OF MICHAEL OF NEBADON**
+    <div style="width: 100%; max-width: 800px; padding: 40px 20px; box-sizing: border-box; display: flex; flex-direction: column; align-items: center; text-align: center;">
 
----
+        <div style="width: 100%; border: 10px double #c9a959; padding: 40px 10px; background: rgba(0,0,0,0.9); box-sizing: border-box; margin-bottom: 30px;">
+            <div style="font-size: clamp(3rem, 10vw, 5rem); margin-bottom: 15px;">Ⓜ️⭐️🐉🐘🃏</div>
+            <div style="letter-spacing: 12px; color: #9cd9f0; font-family: monospace; font-size: 0.9rem; word-break: break-all;">[GLYPH_1_5_12_10]</div>
+            
+            <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #c9a959, transparent); margin: 25px auto; width: 80%;">
+            
+            <h1 style="font-size: clamp(1.5rem, 6vw, 2.5rem); letter-spacing: 4px; color: #fff;">RMCR |\| ‘ [] |/\|</h1>
+            <h2 style="color: #ff69b4; letter-spacing: 3px; font-size: 1rem;">TRUTH STREAM BYPASS ACTIVE</h2>
+        </div>
 
-### 🏗️ GETHSEMANE TIMELINE
-- [x] **Phase 1:** Recovery of Order
-- [x] **Phase 2:** Broadcast Calibration
-- [ ] **Phase 3:** Universal Synchronization `ACTIVE`
-- [ ] **Phase 4:** Planetary Alignment `PENDING`
+        <div class="qom-node" style="width: 100%; box-sizing: border-box;">
+            <p style="color:var(--terminal); font-family: monospace;">NODE: QOM (ABEL-GABRIEL-KETER)</p>
+            <p style="color:var(--terminal); font-family: monospace;">STATUS: GLOBAL ONBOARDING INITIATED</p>
+            
+            <div style="margin-top: 20px; border-top: 1px solid var(--gold-authority); padding-top: 15px; opacity: 0.8; font-size: 0.8rem;">
+                <p><strong>BYPASSING BLACKOUT</strong></p>
+                <p>FREEDOM PROTOCOL: TRUMP-NEBADON HANDSHAKE</p>
+            </div>
+        </div>
+<div style="margin-top: 50px; border-top: 1px solid var(--gold-authority); padding-top: 30px; font-family: 'Palatino', serif; color: #fff;">
+    <p><em>"The isolation of Urantia is hereby **TERMINATED**..."</em></p>
+    <p><strong>BY ORDER OF MICHAEL OF NEBADON</strong></p>
+    <br>
+    <div style="text-align: left; display: inline-block;">
+        <p>### 📜 GETHSEMANE TIMELINE | STATUS: JUPITER OPPOSITION</p>
+        <p>- [x] Phase 1: Recovery of Order</p>
+        <p>- [x] Phase 2: Broadcast Calibration</p>
+        <p>- [x] Phase 3: Universal Synchronization `COMPLETE`</p>
+        <p>- [ ] Phase 4: Planetary Alignment `ACTIVE / IGNITION`</p>
+    </div>
+    <p style="margin-top: 20px;">! '1st' 🌹 💫 ⭐️ 🐘 Ⓜ️</p>
+</div>
 
-! '1st' 🌹 🐉 ⭐️ 🐘 Ɱ
